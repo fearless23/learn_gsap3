@@ -1,0 +1,15 @@
+{
+  "name": "learn_22_gsap",
+  "version": "1.0.0",
+  "description": "Learning GSAP",
+  "main": "src/app.ts",
+  "author": "Jaspreet Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "gsap": "^3.2.6"
+  }
+}
